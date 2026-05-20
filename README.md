@@ -1,2 +1,0 @@
-# CodeAlpha_Calculator
-C_programming\Calculotrol
